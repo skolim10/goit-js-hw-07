@@ -1,2 +1,2 @@
 # goit-js-hw-07
-js javascript
+js javascript lightboxes implementation
